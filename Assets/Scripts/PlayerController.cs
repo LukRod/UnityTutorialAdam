@@ -16,6 +16,8 @@ public class PlayerController : MonoBehaviour
     public float thrustForce = 1f;
 
     public GameObject boosterFlame;
+
+    public GameObject explosionEffect;
     Rigidbody2D rb;
 
     void Start()
