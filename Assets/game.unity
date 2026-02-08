@@ -1862,7 +1862,7 @@ Transform:
   m_GameObject: {fileID: 1917512966}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.3, y: -4, z: 0}
+  m_LocalPosition: {x: 0, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1916,6 +1916,7 @@ MonoBehaviour:
   maxSpeed: 5
   thrustForce: 1
   boosterFlame: {fileID: 297589448}
+  explosionEffect: {fileID: 2952925360820270294, guid: c9fcd4fb5ced41c4cb208604f6b7a085, type: 3}
 --- !u!1001 &8552094939198233877
 PrefabInstance:
   m_ObjectHideFlags: 0
